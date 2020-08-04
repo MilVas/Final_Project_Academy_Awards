@@ -16,7 +16,7 @@ The model unfortunately did not predict accurately,and showed that 1917 has the 
 
 ## [Dataset]
 
-Oscar and Golden Globes data was obtained from Kaggle, and awards, numbers of projects and other information were obtained from Wikipedia and IMDB.
+Oscar and Golden Globes data was obtained from Kaggle, and awards, numbers of projects and other information was obtained from Wikipedia and IMDB.
 
 The final dataset contains 51 categories:
 
