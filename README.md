@@ -16,8 +16,12 @@ The model unfortunately did not predict accurately,and showed that 1917 has the 
 
 ## [Dataset]
 
-Data was obtained from the main Çatalhöyük database, available at www.catalhoyuk.com. 
-It contains records from 308 samples from building 77 with contextual information and density (weight/litre) for each material type
+Oscar and Golden Globes data was obtained from Kaggle, and awards, numbers of projects and other information were obtained from Wikipedia and IMDB.
+
+The final dataset contains 51 categories:
+
+![Categories](https://github.com/[MilVas]/[AABP]/blob/[branch]/cats.png?raw=true)
+
 
 ## [File Structure]
 The repository consists of this readme file, a folder with data, and Jupyter notebooks with data cleaning, web scraping, preliminary analysis and preliminary model.
