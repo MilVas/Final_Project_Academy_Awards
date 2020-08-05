@@ -23,6 +23,5 @@ The final dataset contains 51 categories:
 Year of Film Release, Year of Academy Awards, Running Number of Academy Awards, Oscar Category, Title of the Film, Information if the Film won the Best Picture Category, 
 Film Unique Identifier on IMDB, Genre, Duration of Film, Country of Origin, Language, Writer, Actors, Plot, Name of the Director, Director Unique Identifier on IMDB, Number of Films (and Other Projects) the Director Made, Information on Whether the Director also Produced the Film, Count of Categories the Film was Nominated for, Information on Whether the Director was also Nominated for Best Directing Category and if They Won, How Many Nominations for Best Directing the Director had and how many previous oscars, how Many Films by the Same Director were Nominated for Best Picture, Information on Whether the Director won the Best Director Award at Golden Globes (for the Same Film) and Directors Guild Award, and the Information on Whether the Nominated Film won the Golden Globes, Bafta and Cannes.
 
-
 ## [File Structure]
 The repository consists of this readme file, a folder with data, and Jupyter notebooks with data cleaning, web scraping, preliminary analysis and preliminary model.
